@@ -3,5 +3,8 @@
 *.exe
 *.o
 *.s
-
+*.dSYM/
+.DS_Store
 .vscode/
+build/
+
