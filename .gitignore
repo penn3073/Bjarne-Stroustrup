@@ -4,6 +4,4 @@
 *.o
 *.s
 
-# 忽略 VS Code 缓存
-.vscode/ipch/
-.vscode/msvc/
+.vscode/
